@@ -125,3 +125,11 @@ See [docs/architecture.png](docs/architecture.png) for the request and data flow
 ## Future Improvements
 
 See [docs/improvement-notes.md](docs/improvement-notes.md) for a short list of possible next steps.
+
+
+##  Live Demo
+
+**Frontend:** https://mini-crm-frontend-sw1a.onrender.com/
+
+**Backend API:** https://crm-mini-platform-xeno.onrender.com/
+
